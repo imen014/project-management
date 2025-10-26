@@ -25,5 +25,3 @@ A **MERN stack** application for managing projects and tasks with role-based acc
 * **Authentication:** JWT
 
 This app enables efficient project tracking, clear task delegation, and team collaboration.
-
-If you want, I can also write a **shorter “GitHub one-liner” version** that will appear right under the repo name. Do you want me to do that?
